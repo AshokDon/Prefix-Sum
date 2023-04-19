@@ -1,5 +1,6 @@
 #print sum in range quaries 
-
+// question link
+//https://github.com/AshokDon/Prefix-Sum/edit/main/Prefixsum.cpp
 #include<bits/stdc++.h>
 using namespace std;
 
